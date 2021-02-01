@@ -1,0 +1,45 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "users": [
+    {
+      "name": "German",
+      "email": "german.isaev@gmail.com",
+      "contact": "LinkedIn",
+      "id": 1
+    },
+    {
+      "name": "David",
+      "email": "david.isaev@gmail.com",
+      "contact": "Army",
+      "id": 2
+    },
+    {
+      "name": "Sofia",
+      "email": "sofia.isaev@gmail.com",
+      "contact": "HR",
+      "id": 3
+    },
+    {
+      "name": "Elizabeth",
+      "email": "liza2309@gmail.com",
+      "contact": "Facebook",
+      "id": 4
+    }
+  ]
+}
